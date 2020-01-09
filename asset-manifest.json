@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cvassia/time.git/static/css/main.11b8d18c.chunk.css",
+    "main.js": "/cvassia/time.git/static/js/main.633a9e98.chunk.js",
+    "main.js.map": "/cvassia/time.git/static/js/main.633a9e98.chunk.js.map",
+    "runtime-main.js": "/cvassia/time.git/static/js/runtime-main.a599d91a.js",
+    "runtime-main.js.map": "/cvassia/time.git/static/js/runtime-main.a599d91a.js.map",
+    "static/js/2.c2946dab.chunk.js": "/cvassia/time.git/static/js/2.c2946dab.chunk.js",
+    "static/js/2.c2946dab.chunk.js.map": "/cvassia/time.git/static/js/2.c2946dab.chunk.js.map",
+    "index.html": "/cvassia/time.git/index.html",
+    "precache-manifest.0eedf10296754f4c4e2a2e8c25210374.js": "/cvassia/time.git/precache-manifest.0eedf10296754f4c4e2a2e8c25210374.js",
+    "service-worker.js": "/cvassia/time.git/service-worker.js",
+    "static/css/main.11b8d18c.chunk.css.map": "/cvassia/time.git/static/css/main.11b8d18c.chunk.css.map",
+    "static/js/2.c2946dab.chunk.js.LICENSE": "/cvassia/time.git/static/js/2.c2946dab.chunk.js.LICENSE",
+    "static/media/Hypnotic Clock Sound.m4a": "/cvassia/time.git/static/media/Hypnotic Clock Sound.52d08540.m4a"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a599d91a.js",
+    "static/js/2.c2946dab.chunk.js",
+    "static/css/main.11b8d18c.chunk.css",
+    "static/js/main.633a9e98.chunk.js"
+  ]
+}
